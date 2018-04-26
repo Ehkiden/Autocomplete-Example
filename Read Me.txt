@@ -1,0 +1,6 @@
+This program is an autocomplete program 
+Good reference for:
+	tracking time spent on a operation
+	matching strings
+	binary search algthm
+	reading from a file and to check if a file is good
